@@ -12,7 +12,7 @@ namespace ChristmasWithTypes
 
         //TODO Make the property, "Day", type enum
         //Done
-        public enum Day {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday  };
+        public enum Day {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday};
 
     }
 }
